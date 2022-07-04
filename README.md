@@ -3,4 +3,4 @@ An addon that crashes a gmod server when ran, I don't understand why you would u
 
 I made this because I was bored
 
-literally unteasted code
+literally untested code
